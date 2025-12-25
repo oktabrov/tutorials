@@ -1,0 +1,5 @@
+Item: Original: 123.12 EUR | USD: $145.08
+Item: Original: 123567.00 UZS | USD: $10.22
+Item: Original: 1942.32 MZN | USD: $30.49
+--------------------------------------------------
+GRAND TOTAL: $185.78
